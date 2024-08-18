@@ -2254,6 +2254,10 @@ blockquote {
         margin-left: 2vw;
     }
 
+    .serviceinfo{
+width: 100%;
+    }
+
     /*-----------------Header Elements-----------------*/
     #header .row {
         padding: 0 !important;

@@ -232,7 +232,7 @@ body {
 
 .section-subtitle {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
-    font-size: 15px;
+    font-size: 150%;
     font-weight:600;
     color:#000000;
 }
@@ -378,4 +378,10 @@ h6 {
     font-size: larger;
     font-weight: 550;
     line-height:2.5rem;
+}
+
+.servicesinfo{
+    list-style: none;
+    border: 1px solid rgb(128, 9, 9);
+    margin: 5%;
 }
